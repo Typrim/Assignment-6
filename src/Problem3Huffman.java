@@ -17,10 +17,10 @@ public class Problem3Huffman {
 
     public Problem3TreeNode buildHuffman(String text) {
         Map<Character, Integer> frequencies = frequencyCount(text);
-
+        return null;
     }
 
     public Map<Character, Integer> genCode() {
-
+        return null;
     }
 }
